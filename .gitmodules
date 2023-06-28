@@ -1,3 +1,6 @@
 [submodule "C-Tutorial01-24961"]
 	path = C-Tutorial01-24961
 	url = https://github.com/AyoItsYas/C-Tutorial01-24961.git
+[submodule "C-Tutorial02-24961"]
+	path = C-Tutorial02-24961
+	url = https://github.com/AyoItsYas/C-Tutorial02-24961.git
